@@ -1,7 +1,7 @@
 ---
-title: 'Blog'
+title: 'Блог'
 date: 2019-02-24
 menu:
   main:
-    name: "Posts"
+    name: "Блог"
 ---

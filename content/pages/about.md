@@ -1,9 +1,9 @@
 ---
-title: 'About'
+title: 'Об авторе'
 image: images/writer.jpeg
 menu:
   main:
-    name: "About"
+    name: "Об авторе"
 ---
 
 ## Contra vagos
