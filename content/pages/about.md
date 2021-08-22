@@ -3,7 +3,7 @@ title: 'Об авторе'
 image: images/writer.jpeg
 menu:
   main:
-    name: "Об авторе"
+    name: "Автор"
 ---
 
 ## Contra vagos
