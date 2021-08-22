@@ -3,6 +3,7 @@ languageCode = "ru-ru"
 title = "Yellow submarine"
 themesDir = "themes"
 theme = "hugo-winston"
+publishDir = "docs"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
