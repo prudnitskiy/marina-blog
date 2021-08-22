@@ -1,7 +1,7 @@
-baseURL = "/"
-languageCode = "ru-ru"
-title = "Yellow submarine"
-themesDir = "themes"
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Hugo Winston"
+themesDir = "../.."
 theme = "hugo-winston"
 
 pygmentsCodeFences = true
